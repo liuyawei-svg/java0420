@@ -1,9 +1,9 @@
 <template>
   <div id="app">
     <h1>预祝大家前程似锦</h1>
-    <img src="http://b138.photo.store.qq.com/psbe?/a8d84214-546d-49b0-bb59-6d477a4a6001/.vHOqY6xr2KJnmlf8Rr1oQRZwJrc9BDsbZpbTc4ZFYylbQGG.4fVn2NHkjlURCnY/m/dHztS1KjBAAAnull&bo=wAOAAgAAAAABB2E!&rf=photolist&t=5"/>
-    <img src="http://b138.photo.store.qq.com/psbe?/a8d84214-546d-49b0-bb59-6d477a4a6001/.vHOqY6xr2KJnmlf8Rr1oQRZwJrc9BDsbZpbTc4ZFYylbQGG.4fVn2NHkjlURCnY/m/dHztS1KjBAAAnull&bo=wAOAAgAAAAABB2E!&rf=photolist&t=5"/>
-    <img src="http://b138.photo.store.qq.com/psbe?/a8d84214-546d-49b0-bb59-6d477a4a6001/.vHOqY6xr2KJnmlf8Rr1oQRZwJrc9BDsbZpbTc4ZFYylbQGG.4fVn2NHkjlURCnY/m/dHztS1KjBAAAnull&bo=wAOAAgAAAAABB2E!&rf=photolist&t=5"/>
+    <img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=324237248,1675971079&fm=26&gp=0.jpg"/>
+    <img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=2289170922,101725040&fm=26&gp=0.jpg"/>
+    <img src="https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1243329449,21263175&fm=26&gp=0.jpg"/>
 
   </div>
 </template>
