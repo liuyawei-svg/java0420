@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c17045c8-aad9-4dc2-880a-c32d27123df8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-    </list>
+    <list default="true" id="c17045c8-aad9-4dc2-880a-c32d27123df8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
@@ -54,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603456781695</updated>
-      <workItem from="1603456783190" duration="1295000" />
+      <workItem from="1603456783190" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="自己第二次提交">
       <created>1603456827530</created>
@@ -77,30 +76,49 @@
       <option name="project" value="LOCAL" />
       <updated>1603457398848</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="自己第二次提交3">
+      <created>1603458274445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1603458274445</updated>
+    </task>
+    <task id="LOCAL-00005" summary="自己第二次提交4">
+      <created>1603458491324</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1603458491324</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.vue" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="自己第二次提交" />
     <MESSAGE value="自己第二次提交1" />
     <MESSAGE value="自己第二次提交2" />
-    <option name="LAST_COMMIT_MESSAGE" value="自己第二次提交2" />
+    <MESSAGE value="自己第二次提交3" />
+    <MESSAGE value="自己第二次提交4" />
+    <option name="LAST_COMMIT_MESSAGE" value="自己第二次提交4" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1603457397308">
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1603458489772">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603457397308" />
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603458489772" />
     <state x="138" y="0" key="SettingsEditor" timestamp="1603457215679">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="138" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603457215679" />
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1603457405103">
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2" timestamp="1603458498639">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603457405103" />
+    <state x="261" y="79" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603458498639" />
   </component>
 </project>
