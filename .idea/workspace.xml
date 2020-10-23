@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c17045c8-aad9-4dc2-880a-c32d27123df8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-    </list>
+    <list default="true" id="c17045c8-aad9-4dc2-880a-c32d27123df8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +53,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603456781695</updated>
-      <workItem from="1603456783190" duration="2702000" />
+      <workItem from="1603456783190" duration="3159000" />
     </task>
     <task id="LOCAL-00001" summary="自己第二次提交">
       <created>1603456827530</created>
@@ -100,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603458650344</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="自己第二次提交6">
+      <created>1603459782404</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603459782404</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,13 +120,14 @@
     <MESSAGE value="自己第二次提交3" />
     <MESSAGE value="自己第二次提交4" />
     <MESSAGE value="自己第二次提交5" />
-    <option name="LAST_COMMIT_MESSAGE" value="自己第二次提交5" />
+    <MESSAGE value="自己第二次提交6" />
+    <option name="LAST_COMMIT_MESSAGE" value="自己第二次提交6" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1603458648818">
+    <state x="243" y="0" key="CommitChangelistDialog2" timestamp="1603459780567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603458648818" />
+    <state x="243" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603459780567" />
     <state x="138" y="0" key="SettingsEditor" timestamp="1603459111799">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
